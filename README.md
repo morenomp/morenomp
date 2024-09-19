@@ -4,8 +4,8 @@
 </div>
 
 <div display="flex" align="center">
-  <img src ="./button-cv.png" height="50px" />
-  <img src ="./button-porfolio-new.png" height="50px" />
+  <img src ="./button-cv.png" height="150px" />
+  <img src ="./button-porfolio-new.png" height="150px" />
 </div>
 
 - 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰 𝗠𝗼𝗿𝗲𝗻𝗼 o @morenomp, como gustes.
