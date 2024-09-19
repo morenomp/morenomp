@@ -4,7 +4,7 @@
 </div>
 
 <div display="flex" align="center">
-   <a href="./Marc Moreno CV.pdf" target="_blank">
+   <a href="https://drive.google.com/file/d/1mXdBo9sEZohmSZNwQ4aUJyJmz65IzjoX/view" target="_blank">
        <img src ="./button-cv.png" height="150px" />
    </a>
   
