@@ -1,5 +1,16 @@
+<style>
+    .flexImg{
+      display: flex;
+    }
+</style>
+
 <div align="center">
   <img src ="./banner-github.jpg" />
+</div>
+
+<div class="flexImg" align="center">
+  <img src ="./button-cv.png" />
+  <img src ="./button-porfolio.png" />
 </div>
 
 - 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰 𝗠𝗼𝗿𝗲𝗻𝗼 o @morenomp, como gustes.
