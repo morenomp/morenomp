@@ -5,11 +5,11 @@
 
 
    <a href="https://drive.google.com/file/d/1mXdBo9sEZohmSZNwQ4aUJyJmz65IzjoX/view" target="_blank">
-       <img align="center" src ="./button-cv_.png" height="100px" />
+       <img align="center" src ="./button-cv_.png" height="70px" />
    </a>
   
    <a href="https://mmorenop.netlify.app/" target="_blank"> 
-       <img align="center" src ="./button-porfolio_.png" height="100px" />
+       <img align="center" src ="./button-porfolio_.png" height="70px" />
    </a>
 
 
