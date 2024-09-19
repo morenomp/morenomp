@@ -1,14 +1,9 @@
-/*<style>
-    .flexImg{
-      display: flex;
-    }
-</style>*/
 
 <div align="center">
   <img src ="./banner-github.jpg" />
 </div>
 
-<div class="flexImg" align="center">
+<div display="flex" align="center">
   <img src ="./button-cv.png" />
   <img src ="./button-porfolio-new.png" />
 </div>
