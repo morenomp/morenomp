@@ -3,7 +3,7 @@
   <img src ="./banner-github.jpg" />
 </div>
 
-
+<div align="center">
    <a href="https://drive.google.com/file/d/1mXdBo9sEZohmSZNwQ4aUJyJmz65IzjoX/view" target="_blank">
        <img align="center" src ="./button-cv_.png" height="70px" />
    </a>
@@ -11,7 +11,7 @@
    <a href="https://mmorenop.netlify.app/" target="_blank"> 
        <img align="center" src ="./button-porfolio_.png" height="70px" />
    </a>
-
+</div>
 
 - 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰 𝗠𝗼𝗿𝗲𝗻𝗼 o @morenomp, como gustes.
 - 👍 Estoy interesado en el Desarrollo y Diseño web, además de la producción y edición de vídeos e imágenes.
