@@ -4,8 +4,13 @@
 </div>
 
 <div display="flex" align="center">
-  <img src ="./button-cv.png" height="150px" />
-  <img src ="./button-porfolio-new.png" height="150px" />
+   <a href="./Marc Moreno CV.pdf" target="_blank">
+       <img src ="./button-cv.png" height="150px" />
+   </a>
+  
+   <a href="https://mmorenop.netlify.app/" target="_blank"> 
+       <img src ="./button-porfolio-new.png" height="150px" />
+   </a>
 </div>
 
 - 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰 𝗠𝗼𝗿𝗲𝗻𝗼 o @morenomp, como gustes.
