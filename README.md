@@ -3,7 +3,7 @@
   <img src ="./banner-github.jpg" />
 </div>
 
-<div with="100%" display="flex" align="center">
+<div with="850px" display="flex" align="center">
    <a href="https://drive.google.com/file/d/1mXdBo9sEZohmSZNwQ4aUJyJmz65IzjoX/view" target="_blank">
        <img src ="./button-cv_.png" height="100px" />
    </a>
