@@ -23,7 +23,7 @@
 - - - - - - - - - 
 - 📫 Puedes contactarme a través de mi correo: rais2004pod@gmail.com
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: https://mmorenop.netlify.app/
-- 🔗 Otras redes: linkedin.com/in/marc-moreno-pineda
+- 🔗 Otras redes: https://www.linkedin.com/in/marc-moreno-pineda/
 
 ## 🛠️ Tecnologías que utilizo:
 
