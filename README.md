@@ -18,11 +18,12 @@
 <br>
 
 - 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰 𝗠𝗼𝗿𝗲𝗻𝗼 o @morenomp, como gustes.
-- 👍 Estoy interesado en el Desarrollo y Diseño web, además de la producción y edición de vídeos e imágenes.
+- 👍 Estoy interesado en el Diseño gráfico y el Desarrollo web, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona. También comenzaré mi segundo grado superior.
 - - - - - - - - - 
 - 📫 Puedes contactarme a través de mi correo: rais2004pod@gmail.com
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: https://mmorenop.netlify.app/
+- 🔗 Otras redes: linkedin.com/in/marc-moreno-pineda
 
 ## 🛠️ Tecnologías que utilizo:
 
