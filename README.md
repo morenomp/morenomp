@@ -17,7 +17,7 @@
 
 <br>
 
-- 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰 𝗠𝗼𝗿𝗲𝗻𝗼 o @morenomp, como gustes.
+- 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰, encantado.
 - 👍 Estoy interesado en el Diseño gráfico y el Desarrollo web, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona. También comenzaré mi segundo grado superior.
 - - - - - - - - - 
