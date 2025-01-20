@@ -7,11 +7,11 @@
 
 <div align="center">
    <a href="https://drive.google.com/file/d/1X_P2WTYAztdGUDZsatNyOx8t_l5XNSSH/view?usp=sharing" target="_blank">
-       <img align="center" src ="./button-cv_.png" height="30px" />
+       <img align="center" src ="./button-cv_.png" height="40px" />
    </a>
   
    <a href="https://mmorenop.netlify.app/" target="_blank"> 
-       <img align="center" src ="./button-porfolio_.png" height="30px" />
+       <img align="center" src ="./button-porfolio_.png" height="40px" />
    </a>
 </div>
 
