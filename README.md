@@ -17,7 +17,7 @@
 
 <br>
 
-- 👋 ¡Hola! Soy **Marc**, encantado.
+- 👋 ¡Hola! Soy **`Marc`**, encantado.
 - 👍 Estoy interesado en el **_`Diseño gráfico`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona a la vez que estudio.
 - - - - - - - - - 
