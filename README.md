@@ -29,11 +29,15 @@
 
 ## 🔗 Otras redes:
 
-<div text-align="center">[<sub><img alt="portfolio" src="./red.svg" height="24px"/></sub>`Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/) </div>
-    
-<div text-align="center">[<sub><img alt="Linkedin" src="./linkedin.svg" height="24px"/></sub>`Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)</div>
+<div text-align="center">
   
-<div text-align="center">[<sub><img alt="Youtube" src="./youtube.svg" height="24px"/></sub>`YouTube | @mmoreno-2004`](https://www.youtube.com/@mmoreno-2004)</div>
+  [<sub><img alt="portfolio" src="./red.svg" height="24px"/></sub>`Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/)
+    
+  [<sub><img alt="Linkedin" src="./linkedin.svg" height="24px"/></sub>`Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)
+  
+  [<sub><img alt="Youtube" src="./youtube.svg" height="24px"/></sub>`YouTube | @mmoreno-2004`](https://www.youtube.com/@mmoreno-2004)
+  
+</div>
 
 ## 🛠️ Tecnologías que utilizo:
 
