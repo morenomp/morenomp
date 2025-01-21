@@ -19,7 +19,7 @@
 
 - 👋 ¡Hola! Soy Marc, encantado.
 - 👍 Estoy interesado en el **_`Diseño gráfico`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
-- 🌱 Actualmente busco trabajo de lo que me apasiona. También estoy haciendo mi segundo grado superior, está vez en **desarrollo de aplicaciones web**.
+- 🌱 Actualmente busco trabajo de lo que me apasiona. Además de hacer mi segundo grado superior, está vez en **desarrollo de aplicaciones web**.
 - 📫 Puedes contactarme a través de mi correo: [**`rais2004pod@gmail.com`**](rais2004pod@gmail.com)
 - - - - - - - - - 
 
