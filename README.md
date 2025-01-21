@@ -23,9 +23,10 @@
 - 📫 Puedes contactarme a través de mi correo: [**`rais2004pod@gmail.com`**](rais2004pod@gmail.com)
 - - - - - - - - - 
 
-_> [!NOTE]
+> [!NOTE]
 > ¿Sabias que también comenzaré mi segundo grado superior?
-> Está vez en **desarrollo de aplicaciones web** _
+> Está vez en **desarrollo de aplicaciones web**
+[Línea invisible.]: # 
 
 ## 🔗 Otras redes:
 
