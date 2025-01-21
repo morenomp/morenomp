@@ -33,11 +33,11 @@
         <sub>
           <img alt="Linkedin" src="./linkedin.svg" height="17px"/>
         </sub>
-  </a>[`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
+  </a> [<img alt="Linkedin" src="./linkedin.svg" height="17px"/>`<img alt="Linkedin" src="./linkedin.svg" height="17px"/> Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
   
   - <a href="https://www.youtube.com/@mmoreno-2004" target="_blank">
         <img alt="Youtube" src="./youtube.svg" height="14px"/>
-  </a>[`YouTube`](https://www.youtube.com/@mmoreno-2004)
+  </a> [`YouTube`](https://www.youtube.com/@mmoreno-2004)
 
 ## 🛠️ Tecnologías que utilizo:
 
