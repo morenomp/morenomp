@@ -25,8 +25,9 @@
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: https://mmorenop.netlify.app/
 - 🔗 Otras redes: https://www.linkedin.com/in/marc-moreno-pineda/
 
-> [!TIP]
-> ¿Sabias que también comenzaré mi segundo grado superior, está vez en desarrollo de aplicaciones web?
+> [!NOTA]
+> ¿Sabias que también comenzaré mi segundo grado superior,
+> está vez en desarrollo de aplicaciones web?
 
 ## 🛠️ Tecnologías que utilizo:
 
