@@ -27,7 +27,7 @@
 > ¿Sabias que también comenzaré mi segundo grado superior?
 > Está vez en **desarrollo de aplicaciones web**
 
-
+[//]: <> 
 ## 🔗 Otras redes:
 
 <div text-align="center">
