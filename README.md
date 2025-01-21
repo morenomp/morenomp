@@ -19,11 +19,14 @@
 
 - 👋 ¡Hola! Soy 𝗠𝗮𝗿𝗰, encantado.
 - 👍 Estoy interesado en el Diseño gráfico y el Desarrollo web, además de la producción y edición de vídeos e imágenes.
-- 🌱 Actualmente busco trabajo de lo que me apasiona. También comenzaré mi segundo grado superior.
+- 🌱 Actualmente busco trabajo de lo que me apasiona a la vez que estudio.
 - - - - - - - - - 
 - 📫 Puedes contactarme a través de mi correo: rais2004pod@gmail.com
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: https://mmorenop.netlify.app/
 - 🔗 Otras redes: https://www.linkedin.com/in/marc-moreno-pineda/
+
+> [!TIP]
+> ¿Sabias que también comenzaré mi segundo grado superior, está vez en desarrollo de aplicaciones web?
 
 ## 🛠️ Tecnologías que utilizo:
 
