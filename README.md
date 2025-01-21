@@ -29,10 +29,6 @@
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-
-https://img.shields.io/badge/javascript
-
-<img alt="Javascript" src="https://img.shields.io/badge/javascript"  height="25px"/>
   
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 
