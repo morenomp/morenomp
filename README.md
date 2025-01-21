@@ -23,13 +23,14 @@
 - - - - - - - - - 
 - 📫 Puedes contactarme a través de mi correo: [`rais2004pod@gmail.com`](rais2004pod@gmail.com)
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: [`mmorenop.netlify.app`](https://mmorenop.netlify.app/)
-- 🔗 Otras redes:
-  - <sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
-  - <img alt="Youtube" src="./youtube.svg" height="14px"/> [`YouTube`](https://www.youtube.com/@mmoreno-2004)
 
 > [!NOTE]
 > ¿Sabias que también comenzaré mi segundo grado superior?
 > Está vez en **desarrollo de aplicaciones web**
+
+- 🔗 Otras redes:
+  - <sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
+  - <img alt="Youtube" src="./youtube.svg" height="14px"/> [`YouTube`](https://www.youtube.com/@mmoreno-2004)
 
 ## 🛠️ Tecnologías que utilizo:
 
