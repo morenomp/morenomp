@@ -29,8 +29,15 @@
 > Está vez en **desarrollo de aplicaciones web**
 
 - 🔗 Otras redes:
-  - <sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
-  - <img alt="Youtube" src="./youtube.svg" height="14px"/> [`YouTube`](https://www.youtube.com/@mmoreno-2004)
+  - <a href="https://www.linkedin.com/in/marc-moreno-pineda/" target="_blank">
+        <sub>
+          <img alt="Linkedin" src="./linkedin.svg" height="17px"/>
+        </sub>
+  </a> [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
+  
+  - <a href="https://www.youtube.com/@mmoreno-2004" target="_blank">
+        <img alt="Youtube" src="./youtube.svg" height="14px"/>
+  </a> [`YouTube`](https://www.youtube.com/@mmoreno-2004)
 
 ## 🛠️ Tecnologías que utilizo:
 
