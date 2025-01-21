@@ -26,8 +26,8 @@
 - 🔗 Otras redes: [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/) [`YouTube`](https://www.youtube.com/@mmoreno-2004)
 
 > [!NOTE]
-> ¿Sabias que también comenzaré mi segundo grado superior,
-> está vez en desarrollo de aplicaciones web?
+> ¿Sabias que también comenzaré mi segundo grado superior?
+> Está vez en **desarrollo de aplicaciones web**
 
 ## 🛠️ Tecnologías que utilizo:
 
