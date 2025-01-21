@@ -23,7 +23,8 @@
 - - - - - - - - - 
 - 📫 Puedes contactarme a través de mi correo: [`rais2004pod@gmail.com`](rais2004pod@gmail.com)
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: [`mmorenop.netlify.app`](https://mmorenop.netlify.app/)
-- 🔗 Otras redes: <img alt="Linkedin" src="./linkedin.svg" height="14px"/> [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/) [`YouTube`](https://www.youtube.com/@mmoreno-2004)
+- 🔗 Otras redes: <img alt="Linkedin" src="./linkedin.svg" height="14px"/> [`Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
+- <img alt="Youtube" src="./youtube.svg" height="14px"/> [`YouTube`](https://www.youtube.com/@mmoreno-2004)
 
 > [!NOTE]
 > ¿Sabias que también comenzaré mi segundo grado superior?
