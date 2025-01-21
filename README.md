@@ -31,7 +31,7 @@
 
 <div text-align="center">
   
-<sub>  [<sub><img alt="portfolio" src="./red.svg" height="17px"/></sub> `Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/) </sub>
+  [<sub><img alt="portfolio" src="./red.svg" height="17px"/></sub> `Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/)
     
   [<sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> `Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)
   
