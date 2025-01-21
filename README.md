@@ -21,7 +21,7 @@
 - 👍 Estoy interesado en el **_`Diseño gráfico`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona a la vez que estudio.
 - - - - - - - - - 
-- 📫 Puedes contactarme a través de mi correo: **_`rais2004pod@gmail.com`_**
+- 📫 Puedes contactarme a través de mi correo: `rais2004pod@gmail.com`
 - 👀 Para saber más de mis trabajos, te dejo mi portfolio: **_`https://mmorenop.netlify.app/`_**
 - 🔗 Otras redes: **_`https://www.linkedin.com/in/marc-moreno-pineda/`_**
 
