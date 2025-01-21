@@ -17,7 +17,7 @@
 
 <br>
 
-- 👋 ¡Hola! Soy **`Marc`**, encantado.
+- 👋 ¡Hola! Soy Marc, encantado.
 - 👍 Estoy interesado en el **_`Diseño gráfico`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona a la vez que estudio.
 - - - - - - - - - 
@@ -29,9 +29,11 @@
 > Está vez en **desarrollo de aplicaciones web**
 
 - 🔗 Otras redes:
-  - [<sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> `Linkedin`](https://www.linkedin.com/in/marc-moreno-pineda/)
+  - [<img alt="portfolio" src="./red.svg" height="14px"/> `Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/)
+    
+  - [<sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> `Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)
   
-  - [<img alt="Youtube" src="./youtube.svg" height="14px"/> `YouTube`](https://www.youtube.com/@mmoreno-2004)
+  - [<img alt="Youtube" src="./youtube.svg" height="14px"/> `YouTube | @mmoreno-2004`](https://www.youtube.com/@mmoreno-2004)
 
 ## 🛠️ Tecnologías que utilizo:
 
