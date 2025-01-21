@@ -18,12 +18,12 @@
 <br>
 
 - 👋 ¡Hola! Soy **Marc**, encantado.
-- 👍 Estoy interesado en el **_Diseño gráfico_** y el **_Desarrollo web_**, además de la producción y edición de vídeos e imágenes.
+- 👍 Estoy interesado en el **_`Diseño gráfico`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona a la vez que estudio.
 - - - - - - - - - 
-- 📫 Puedes contactarme a través de mi correo: **_rais2004pod@gmail.com_**
-- 👀 Para saber más de mis trabajos, te dejo mi portfolio: **_https://mmorenop.netlify.app/_**
-- 🔗 Otras redes: **_https://www.linkedin.com/in/marc-moreno-pineda/_**
+- 📫 Puedes contactarme a través de mi correo: **_`rais2004pod@gmail.com`_**
+- 👀 Para saber más de mis trabajos, te dejo mi portfolio: **_`https://mmorenop.netlify.app/`_**
+- 🔗 Otras redes: **_`https://www.linkedin.com/in/marc-moreno-pineda/`_**
 
 > [!NOTE]
 > ¿Sabias que también comenzaré mi segundo grado superior,
