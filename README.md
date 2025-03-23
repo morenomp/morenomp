@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-   <a href="https://drive.google.com/file/d/1X_P2WTYAztdGUDZsatNyOx8t_l5XNSSH/view?usp=sharing" target="_blank">
+   <a href="https://drive.google.com/file/d/1Shuar3TBAu7_CPK0iSO0B4ieO66HqEVd/view?usp=sharing" target="_blank">
        <img align="center" src ="./button-cv_.png" height="40px" />
    </a>
   
