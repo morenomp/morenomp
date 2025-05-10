@@ -63,5 +63,5 @@
 <div align="center">
   Trabajando en nuevos proyectos
   </br>
-  <img align="center" src ="./IMGs/loadingGitHub_.png" height="30px" />
+  <img align="center" src ="./IMGs/loadingWork.png" height="30px" />
 </div>
