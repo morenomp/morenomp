@@ -7,11 +7,11 @@
 
 <div align="center">
    <a href="https://drive.google.com/file/d/1Shuar3TBAu7_CPK0iSO0B4ieO66HqEVd/view?usp=sharing" target="_blank">
-       <img align="center" src ="./button-cv_.png" height="40px" />
+       <img align="center" src ="./IMGs/button-cv_.png" height="40px" />
    </a>
   
    <a href="https://mmorenop.netlify.app/" target="_blank"> 
-       <img align="center" src ="./button-porfolio_.png" height="40px" />
+       <img align="center" src ="./IMGs/button-porfolio_.png" height="40px" />
    </a>
 </div>
 
@@ -31,11 +31,11 @@
 
 <div text-align="center">
   
-  [<sub><img alt="portfolio" src="./red.svg" height="17px"/></sub> `Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/)
+  [<sub><img alt="portfolio" src="./IMGs/red.svg" height="17px"/></sub> `Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/)
     
-  [<sub><img alt="Linkedin" src="./linkedin.svg" height="17px"/></sub> `Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)
+  [<sub><img alt="Linkedin" src="./IMGs/linkedin.svg" height="17px"/></sub> `Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)
   
-  [<sub><img alt="Youtube" src="./youtube.svg" height="17px"/></sub> `YouTube | @mmoreno-2004`](https://www.youtube.com/@mmoreno-2004)
+  [<sub><img alt="Youtube" src="./IMGs/youtube.svg" height="17px"/></sub> `YouTube | @mmoreno-2004`](https://www.youtube.com/@mmoreno-2004)
   
 </div>
 
