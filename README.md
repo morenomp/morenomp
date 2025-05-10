@@ -59,3 +59,4 @@
 </p>
 
 Trabajando en nuevos proyectos ![loading work](https://tenor.com/es/view/loading-discord-grey-loading-dots-gif-7579666412396652477)
+<div class="tenor-gif-embed" data-postid="7579666412396652477" data-share-method="host" data-aspect-ratio="1.992" data-width="100%"><a href="https://tenor.com/view/loading-discord-grey-loading-dots-gif-7579666412396652477">Loading Discord Grey Sticker</a>from <a href="https://tenor.com/search/loading-stickers">Loading Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
