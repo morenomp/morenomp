@@ -58,8 +58,11 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-2fa3f7?style=for-the-badge&label=adobe&labelColor=blue) ![Illustrator](https://img.shields.io/badge/illustrator-f79500?style=for-the-badge&label=adobe&labelColor=644628) ![InDesign](https://img.shields.io/badge/indesign-e94868?style=for-the-badge&label=adobe&labelColor=43091f) ![After Effects](https://img.shields.io/badge/after%20effects-9a99ff?style=for-the-badge&label=adobe&labelColor=18214b) ![Premiere Pro](https://img.shields.io/badge/premiere%20pro-9a99ff?style=for-the-badge&label=adobe&labelColor=18214b) ![Audition](https://img.shields.io/badge/audition-9a99ff?style=for-the-badge&label=adobe&labelColor=18214b) ![XD](https://img.shields.io/badge/xd-f52bbf?style=for-the-badge&label=adobe&labelColor=3a1b29) ![PEXELS](https://img.shields.io/badge/pexels-05a081?style=for-the-badge&logo=pexels&logoColor=ffffff) ![FREEPIK](https://img.shields.io/badge/freepik-blue?style=for-the-badge&logo=freepik&logoColor=ffffff) 
 </p>
 
+- - - - - - - - - 
+</br></br>
+
 <div align="center">
   Trabajando en nuevos proyectos
   </br>
-  <img align="center" src ="./IMGs/loadingGitHub_.png" height="40px" />
+  <img align="center" src ="./IMGs/loadingGitHub_.png" width="100px" height="40px" />
 </div>
