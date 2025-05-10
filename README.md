@@ -18,7 +18,7 @@
 <br>
 
 - 👋 ¡Hola! Soy Marc, encantado.
-- 👍 Estoy interesado en el **_`Diseño gráfico`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
+- 👍 Estoy interesado en el **_`Diseño gráfico`_**, el **_`Diseño UI/UX`_** y el **_`Desarrollo web`_**, además de la producción y edición de vídeos e imágenes.
 - 🌱 Actualmente busco trabajo de lo que me apasiona. Además de hacer mi segundo grado superior, está vez en **desarrollo de aplicaciones web**.
 - 📫 Puedes contactarme a través de mi correo: [**`morenomp2004@gmail.com`**](morenomp2004@gmail.com)
 - - - - - - - - - 
