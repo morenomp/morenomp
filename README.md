@@ -59,10 +59,9 @@
 </p>
 
 - - - - - - - - - 
-</br></br>
 
 <div align="center">
   Trabajando en nuevos proyectos
-  </br>
-  <img align="center" src ="./IMGs/loadingGitHub_.png" width="100px" height="40px" />
+  </br></br>
+  <img align="center" src ="./IMGs/loadingGitHub_.png" width="1000px" height="40px" />
 </div>
