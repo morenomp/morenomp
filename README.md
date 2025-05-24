@@ -60,6 +60,14 @@
 
 - - - - - - - - - 
 
+## 📊 Estadísticas de GitHub
+
+![morenomp GitHub Stats](https://github-readme-stats.vercel.app/api?username=morenomp&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morenomp&layout=compact&theme=github_dark)
+
+- - - - - - - - - 
+
 <div align="center">
   Trabajando en nuevos proyectos
   </br>
