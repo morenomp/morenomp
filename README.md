@@ -43,7 +43,8 @@
 
 <p>
   
-![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=ffffff) ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![RWD](https://img.shields.io/badge/Responsive%20Web%20Design%20(RWD)-blue?style=for-the-badge) 
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=ffffff) ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=ffffff) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![RWD](https://img.shields.io/badge/Responsive%20Web%20Design%20(RWD)-blue?style=for-the-badge) <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 
 ## 🛠️ Entornos de desarrollo:
 
