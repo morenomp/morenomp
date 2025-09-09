@@ -10,7 +10,7 @@
        <img align="center" src ="./IMGs/button-cv_.png" height="40px" />
    </a>
   
-   <a href="https://mmorenop.netlify.app/" target="_blank"> 
+   <a href="https://www.morenomp.com/" target="_blank"> 
        <img align="center" src ="./IMGs/button-porfolio_.png" height="40px" />
    </a>
 </div>
@@ -26,7 +26,7 @@
 
 <div text-align="center">
   
-  [<sub><img alt="portfolio" src="./IMGs/red.svg" height="17px"/></sub> `Portfolio | mmorenop.netlify.app`](https://mmorenop.netlify.app/)
+  [<sub><img alt="portfolio" src="./IMGs/red.svg" height="17px"/></sub> `Portfolio | morenomp.com`](https://www.morenomp.com/)
     
   [<sub><img alt="Linkedin" src="./IMGs/linkedin.svg" height="17px"/></sub> `Linkedin | Marc Moreno Pienda`](https://www.linkedin.com/in/marc-moreno-pineda/)
   
