@@ -43,7 +43,7 @@
 
 ## 🛠️ Entornos de desarrollo:
 
-![Sublime Text](https://img.shields.io/badge/sublime%20text-grey?style=for-the-badge&logo=sublimetext&logoColor=orange) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) ![Static Badge](https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Sublime Text](https://img.shields.io/badge/sublime%20text-grey?style=for-the-badge&logo=sublimetext&logoColor=orange) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) ![Static Badge](https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 ## 🛠️ Herramientas:
 
