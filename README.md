@@ -11,7 +11,7 @@
    </a>
   
    <a href="https://www.morenomp.com/" target="_blank"> 
-       <img align="center" src ="./IMGs/button-porfolio_.png" height="40px" />
+       <img align="center" src ="./IMGs/button-portfolio_.png" height="40px" />
    </a>
 </div>
 
