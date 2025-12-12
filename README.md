@@ -7,11 +7,11 @@
 
 <div align="center">
    <a href="https://drive.google.com/file/d/1Shuar3TBAu7_CPK0iSO0B4ieO66HqEVd/view?usp=sharing" target="_blank">
-       <img align="center" src ="./IMGs/button-cv_.png" height="40px" />
+       <img align="center" src ="./IMGs/button-cv_.png" height="120px" />
    </a>
   
    <a href="https://www.morenomp.com/" target="_blank"> 
-       <img align="center" src ="./IMGs/button-portfolio_.png" height="40px" />
+       <img align="center" src ="./IMGs/button-portfolio_.png" height="120px" />
    </a>
 </div>
 
